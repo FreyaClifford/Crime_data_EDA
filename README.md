@@ -6,6 +6,7 @@ This project was planned and managed using a trello board :
 https://trello.com/b/xfd6Rkxc/python-crime-data-eda
 
 All changes were tracked using Git and recorded in a GitHub repository:
+https://github.com/FreyaClifford/Crime_data_EDA
 
 #Needed Libraries 
 These python libraries were used to complete the project and should be imported before running any code
