@@ -1,6 +1,7 @@
 # Crime data EDA project README
 
-This project is a part of Rockborne’s python EDA project and involves analysing multiple police forces across different regions in UK in python to present a report of the results to the head of sales for a real estate company<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/a42d02fb-31bc-44af-8950-6b0e6d3aaa82" />
+This project is a part of Rockborne’s python EDA project and involves analysing multiple police forces across different regions in UK in python to present a report of the results to the head of sales for a real estate company
+
 This project was planned and managed using a trello board :
 https://trello.com/b/xfd6Rkxc/python-crime-data-eda
 
