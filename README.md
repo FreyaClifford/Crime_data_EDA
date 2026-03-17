@@ -10,10 +10,18 @@ https://github.com/FreyaClifford/Crime_data_EDA
 
 #Needed Libraries 
 These python libraries were used to complete the project and should be imported before running any code
+
 - pandas
 - numpy
+- glob
+- os 
+- seaborn
+- matplotlib.pyplot
 - geopandas
 - folium
+- branca.colormap
+- collections
+
 
 #Files included 
 - Crime_EDA_work_statement - Statement of work
